@@ -1,3 +1,22 @@
+<p align="center">
+<strong><a href="https://wx83.github.io/">Weihan Xu</a></strong> <sup>1</sup> &emsp;
+<strong><a href="https://openreview.net/profile?id=~Yimeng_Ma1">Yimeng Ma</a></strong> <sup>1</sup> &emsp;
+<strong><a href="https://scholar.google.com/citations?user=80PzfFoAAAAJ&hl=zh-CN">Jingyue Huang</a></strong> <sup>3</sup> &emsp;
+<strong><a href="https://www.linkedin.com/in/yang-li-bab9191b7/">Yang Li</a></strong> <sup>1</sup> &emsp;
+<strong>Wenye Ma</strong> <sup>5</sup> &emsp;
+<strong><a href="https://cseweb.ucsd.edu/~tberg/">Taylor Berg-Kirkpatrick</a></strong> <sup>3</sup> &emsp;
+<strong><a href="https://cseweb.ucsd.edu/~jmcauley/">Julian McAuley</a></strong> <sup>3</sup> &emsp;
+<strong><a href="https://pliang279.github.io/">Paul Pu Liang</a></strong> <sup>2</sup> &emsp;
+<strong><a href="https://salu133445.github.io/">Hao-Wen Dong</a></strong> <sup>4</sup><br>
+<sup>1</sup> Duke University &emsp;<sup>2</sup> MIT &emsp;<sup>3</sup> University of California San Diego &emsp;<sup>4</sup> University of Michigan &emsp;<sup>5</sup> MBZUAI
+</p>
+
+<p align="center">
+<strong><a href="https://github.com/wx83/REGen"> [Codebase] </a></strong> &emsp;
+<strong><a href="https://arxiv.org/pdf/2505.18880"> [Paper] </a></strong>
+</p>
+
+
 ## Contents:
 
 1) [Section 1: Summary of the Compared Models](#section-1-summary-of-the-compared-models)
