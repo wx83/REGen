@@ -3,7 +3,7 @@
 <strong><a href="https://openreview.net/profile?id=~Yimeng_Ma1">Yimeng Ma</a></strong> <sup>1</sup> &emsp;
 <strong><a href="https://scholar.google.com/citations?user=80PzfFoAAAAJ&hl=zh-CN">Jingyue Huang</a></strong> <sup>3</sup> &emsp;
 <strong><a href="https://www.linkedin.com/in/yang-li-bab9191b7/">Yang Li</a></strong> <sup>1</sup> &emsp;
-<strong>Wenye Ma</strong> <sup>5</sup> &emsp;
+<strong>Wenye Ma</strong> <sup>5</sup> &emsp;<br>
 <strong><a href="https://cseweb.ucsd.edu/~tberg/">Taylor Berg-Kirkpatrick</a></strong> <sup>3</sup> &emsp;
 <strong><a href="https://cseweb.ucsd.edu/~jmcauley/">Julian McAuley</a></strong> <sup>3</sup> &emsp;
 <strong><a href="https://pliang279.github.io/">Paul Pu Liang</a></strong> <sup>2</sup> &emsp;
