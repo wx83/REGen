@@ -11,6 +11,8 @@ NeurIPS 2025
 [[Paper](https://arxiv.org/abs/2505.18880)] 
 [[Demo Page](https://wx83.github.io/REGen/)]
 
+## Get Started
+
 ## Citation
 
 ```bibtex
